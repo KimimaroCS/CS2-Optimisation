@@ -21,17 +21,27 @@ Je vous donne trois settings vidéo que j'ai utilisé, les trois fonctionnent ch
 # 1 : Video Settings - ELEVE SETTINGS 
 
 Contraste subjectif accru : ACTIVE
+
 Synchronisation verticale : DESACTIVE
+
 Préréglages vidéos actuels : SUR MESURE
 
 Mode anticrénelage MSAA : 2x MSAA
+
 Qualité globale des ombres : ELEVE
+
 Detail des textures/modéles : ELEVE
+
 Détail des shaders : ELEVE
+
 Détail des particules : ELEVE
+
 Occlusion Ambiante : DESACTIVE
+
 Grande gamme dynamique (HDR) : Qualité
+
 FideityFX Super Resolution ( FSR ) : Désactivé
+
 Latence faible ( NVIDIA Reflex ) : Activé+MODE BOOST
 
 # 2 : Video Settings - MEDIUM + LOW
