@@ -111,6 +111,7 @@ ou
 \steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe
 
 clic droit sur l'exe cs2.exe > propriétés > Compatibilité > Cocher Désactiver les optimisations du mode plein écran
+
 clic droit sur l'exe cs2.exe > propriétés > Compatibilité > Cliquer sur Modifier les paramètres PPP élevés > Cocher : remplacer le comportement de mise à l'échelle PPP elevée.
 
 ( Si vous souhaitez vous pouvez aussi faire la même manipulation en cliquant sur "Modifier les paramètres pour tous les utilisateurs" pour que celle-ci soit appliquée sur tous les utilisateurs du pc )
