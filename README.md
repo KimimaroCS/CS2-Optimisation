@@ -47,33 +47,53 @@ Latence faible ( NVIDIA Reflex ) : Activé+MODE BOOST
 # 2 : Video Settings - MEDIUM + LOW
 
 Contraste subjectif accru : ACTIVE
+
 Synchronisation verticale : DESACTIVE
+
 Préréglages vidéos actuels : SUR MESURE
 
 Mode anticrénelage MSAA : 2x MSAA
+
 Qualité globale des ombres : MEDIUM
+
 Detail des textures/modéles : MEDIUM
+
 Détail des shaders : LOW
+
 Détail des particules : MEDIUM
+
 Occlusion Ambiante : DESACTIVE
+
 Grande gamme dynamique (HDR) : Qualité
+
 FideityFX Super Resolution ( FSR ) : Désactivé
+
 Latence faible ( NVIDIA Reflex ) : ACTIVE
 
 # 3 : Video Settings - Low
 
 Contraste subjectif accru : ACTIVE
+
 Synchronisation verticale : DESACTIVE
+
 Préréglages vidéos actuels : SUR MESURE
 
 Mode anticrénelage MSAA : 2x MSAA
+
 Qualité globale des ombres : Low
+
 Detail des textures/modéles : Low
+
 Détail des shaders : LOW
+
 Détail des particules : Low
+
 Occlusion Ambiante : DESACTIVE
+
 Grande gamme dynamique (HDR) : Qualité
+
 FideityFX Super Resolution ( FSR ) : Désactivé
+
 Latence faible ( NVIDIA Reflex ) : ACTIVE
 
 
